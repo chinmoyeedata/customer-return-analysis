@@ -15,7 +15,8 @@ This project analyzes customer return behavior using an e-commerce dataset.
 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/chinmoyee.bhuyan4922/viz/CustomerReturnAnalysis/Dashboard1?publish=yes)
 
 ## Dashboard Preview
+[Dashboard](dashboard1.png)
 
 ## Project Files
 - Jupyter Notebook (.ipynb)
-- Tableau Dashboard
+- Tableau Dashboard (.png)
